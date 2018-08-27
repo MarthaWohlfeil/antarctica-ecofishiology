@@ -1,10 +1,10 @@
 ---
 output: 
   html_document:
-    toc: false
+    toc: true
     toc_depth: 2
     toc_float: true
     theme: flatly
 ---
 
-## Welcome to the site for the Antarctica Research Trip 2018! 
+## Meet our team! 

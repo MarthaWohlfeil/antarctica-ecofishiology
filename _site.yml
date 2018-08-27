@@ -1,0 +1,15 @@
+name: "antarctica fish physiology blog"
+output_dir: "."
+navbar:
+  title: "Antarctica Eco-Fishiology Blog"
+  left:
+    - text: "Home"
+      href: about.html
+    - text: "Blog Posts"
+      href: posts.html
+    - text: "About the Team"
+      href: team.html
+  right:
+    - text: "Contact"
+      icon: "fas fa-address-book"
+      href: contact.html
